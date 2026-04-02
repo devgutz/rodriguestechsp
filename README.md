@@ -2,7 +2,7 @@
 
 Site profissional para serviços de assistência técnica, montagem e manutenção de computadores em Jandira/SP.
 
-![Rodrigues Tech Banner](https://via.placeholder.com/1200x400/0A0A0A/00C2FF?text=Rodrigues+Tech)
+![Rodrigues Tech Banner](rodrigues_logo.png)
 
 ## 📋 Sobre o Projeto
 
